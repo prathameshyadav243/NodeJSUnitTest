@@ -1,0 +1,1 @@
+export const bringMeThanos = () => "you should have gone for the head.";
